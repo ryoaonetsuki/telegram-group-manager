@@ -2,7 +2,7 @@
 
 A powerful, **fully modular** Telegram bot designed for developer-focused groups, running **100% free** on Cloudflare Workers. No external AI APIs, no paid services — just clean rule-based intelligence and great developer tooling.
 
-> **Built by [Md Salman Biswas](https://github.com/salman-dev-app)** — Senior Software Engineer  
+> **Built by [Md Salman Biswas](https://github.com/ryoaonetsuki)** — Senior Software Engineer  
 > 📧 mdsalmanhelp@gmail.com · 📱 [Telegram](https://t.me/Otakuosenpai) · [Facebook](https://facebook.com/salmandevapp)
 
 ---
@@ -443,7 +443,7 @@ MIT License — Free to use, modify, and deploy.
 
 | | |
 |---|---|
-| 🐙 GitHub | [github.com/salman-dev-app](https://github.com/salman-dev-app) |
+| 🐙 GitHub | [github.com/ryoaonetsuki](https://github.com/ryoaonetsuki) |
 | 📧 Email | mdsalmanhelp@gmail.com |
 | 💬 Telegram | [@Otakuosenpai](https://t.me/Otakuosenpai) |
 | 📘 Facebook | [salmandevapp](https://facebook.com/salmandevapp) |
